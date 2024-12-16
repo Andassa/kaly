@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161182394074",
+    "project_id": "laoka-5ef2d",
+    "storage_bucket": "laoka-5ef2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161182394074:android:256e752f15b4c4f33fa7e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_complete_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA21hsU6Hdp5vI1Lb_If9BQD_E1OWsdU0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
